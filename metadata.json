@@ -1,0 +1,6 @@
+{
+  "name": "Neron - Delicias Heladas",
+  "description": "App web interactiva para la heladería Neron Delicias Heladas con catálogo de sabores, personalizador de helados, pedidos en línea y recompensas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
